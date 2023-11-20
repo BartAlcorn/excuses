@@ -2,7 +2,7 @@
 
 I was mocking a monitoring system and needed to generate mock error messages.
 
-Thus inspired by the classic "My dog ate my homework" and Start Trek's Technobabble "The EPS conduit phased shift the warp core.", [Excuses](https://github.com/bartalcorn/excuses) was born.
+Thus inspired by the classic "My dog ate my homework" and Start Trek's Technobabble "The EPS conduit phased shifted the warp core.", [Excuses](https://github.com/bartalcorn/excuses) was born.
 
 ```excuses.Pet()``` returns a "My dog ate my homework" style excuse (as a string),
 
