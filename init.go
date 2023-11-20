@@ -1,7 +1,7 @@
 package excuses
 
-var twho = []string{"server", "memory", "monitor", "hard disk", "AWS East Region", "AWS West Region", "AWS South Region", "AWS North Region", "sales team", "router", "Power Point", "HR department", "management", "senior management", "SQL server", "NOSQL server", "network schema", "network connection", "vpn connection"}
-var tdid = []string{"threw", "emitted", "crashed", "formated", "reformated", "deformated", "polarized", "depolarized", "repolarized", "phase shifted", "bit shifted", "byte shifted", "authorized", "deauthorized", "reauthorized", "allocated", "deallocated", "reallocated", "logged", "disconnected", "dropped", "broke"}
+var twho = []string{"server", "memory", "monitor", "hard disk", "Cloud Engineering team", "database manager's team", "AWS East Region", "AWS West Region", "AWS South Region", "AWS North Region", "sales team", "router", "Power Point", "HR department", "management", "senior management", "SQL server", "NOSQL server", "network schema", "network connection", "vpn connection"}
+var tdid = []string{"threw", "emitted", "fixed", "fragmented", "defragmented", "refragmented", "crashed", "formated", "reformated", "deformated", "commited", "reverted", "commented out", "polarized", "depolarized", "repolarized", "phase shifted", "bit shifted", "byte shifted", "authorized", "deauthorized", "reauthorized", "allocated", "deallocated", "reallocated", "logged", "disconnected", "dropped", "broke"}
 var twhat = []string{"server", "memory", "RAM", "monitor", "schema", "power supply", "cabling", "database", "Oracle database", "MySQL database", "Oracle database", "Postgre database", "Redis database", "Cassandra database", "DynamoDB database", "Firebirdsql database", "Mongo database", "SQL database", "SQLlite database", "keyboard", "mouse", "EPS conduit", "warp core", "impulse engines", "phase emitter", "phaser emitter"}
 
 // Pets
